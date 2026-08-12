@@ -175,13 +175,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author
-
-**Liane Heidemann**
-
-- GitHub: [@lianeheidemann](https://github.com/lianeheidemann)
-- Repository: [firebase-remote-config-app](https://github.com/lianeheidemann/firebase-remote-config-app)
-
----
-
 <p align="center">Developed by <strong>Liane Heidemann</strong></p>
