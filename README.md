@@ -143,10 +143,4 @@ flutter pub upgrade
 
 ---
 
-<div align="center">
-
-Developed using Flutter and Firebase
-
-[Back to Top](#firebase-remote-config-flutter-application)
-
-</div>
+<p align="center">Developed by <strong>Liane Heidemann</strong></p>
