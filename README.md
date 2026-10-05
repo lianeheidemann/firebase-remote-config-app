@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/images/app-icon-remote-config.webp" width="96" alt="Firebase Remote Config app icon">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/app-icon-readme-dark-v1.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/app-icon-readme-light-v1.webp">
+    <img src="assets/images/app-icon-readme-light-v1.webp" width="96" alt="Firebase Remote Config app icon">
+  </picture>
 </p>
 
 # Firebase Remote Config Flutter Application
