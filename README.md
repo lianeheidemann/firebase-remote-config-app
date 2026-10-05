@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/app-icon-remote-config.webp" width="96" alt="Firebase Remote Config app icon">
+</p>
+
 # Firebase Remote Config Flutter Application
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
